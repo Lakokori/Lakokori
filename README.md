@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lakokori
+# Hi 👋, I'm Lakokori A.K.A. Lamela Abdul - Masih Ibrahim
 
 ### A passionate Cyber Security Analyst
 
