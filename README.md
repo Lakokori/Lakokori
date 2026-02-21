@@ -9,6 +9,13 @@
 - 💬 Ask me about **Linux, Unix, C, C++, Java**
 
 - ⚡ Fun fact **Did you know "Star Wars: Episode I - The Phantom Menace" premiered on May 19, 1999, and I was born on the same day some years earllier?**
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakokori/Lakokori/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakokori/Lakokori/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lakokori/Lakokori/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 - 📄 Know about my experiences **[https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing](https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing)**
 
