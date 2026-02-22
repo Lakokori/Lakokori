@@ -15,6 +15,7 @@
 <a href="https://github.com/Lakokori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lakokori" height="30" width="40" /></a>
 <a href="https://instagram.com/lamela_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lamela_ibrahim" height="30" width="40" /></a>
 <a href="https://youtube.com/Nanipanjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nanipanjin" height="30" width="40" /></a>
+ <a href="https://facebook.com/samzdollhouse.ka@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.com.svg" alt="samzdollhouse.ka@gmail.com" height="30" width="40" /></a>
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samzdollhouse.ka@gmail.com)  
 
 </p>
