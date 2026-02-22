@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Did you know "Star Wars: Episode I - The Phantom Menace" premiered on May 19, 1999, and I was born on the same day some years earllier?**
 
-- 📚 Lifelong learner passionate about  learning Japanese, reading especially computer related, motivational and spiritual books
+- 📚 Lifelong learner passionate about  learning Japanese, reading especially computer related, motivational and spiritual books and playing Halo.
 
  - 📄 Know about my experiences [Resume](#) **[https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing](https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing)**
 
