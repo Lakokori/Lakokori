@@ -11,6 +11,14 @@
 
 - 📚 Lifelong learner passionate about  learning Japanese, reading especially computer related, motivational and spiritual books
 
+ - 📄 Know about my experiences **[https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing](https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing)**
+
+ - ### 🛠️ Skills
+- **Technical Expertise** Penetration Testing, Risk Assessments, Network Security, Endpoint security,
+- **Tools**:  Metasploit, Wireshark, Wazuh, PFSense
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Lakokori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lakokori" height="30" width="40" /></a>
