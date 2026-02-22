@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Did you know "Star Wars: Episode I - The Phantom Menace" premiered on May 19, 1999, and I was born on the same day some years earllier?**
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing](https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
