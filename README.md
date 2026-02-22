@@ -1,6 +1,7 @@
-# Hi 👋, I'm Lakokori
+# Hi 👋, I'm Lakokori AKA Lamela Abdul-Masih Ibrahim
 
-### A passionate Cyber Security Analyst
+### A passionate Cyber Security Analyst and Penetration Tester
+<p align="right"><img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQwMGRvYzFxcHpvdmxzc2djYWt6dTM4Mno0NWppamc4cGcxanEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif"  /></p>
 
 - 🔭 I'm currently working on **this page**
 
