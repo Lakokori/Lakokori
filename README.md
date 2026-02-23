@@ -17,7 +17,7 @@
 - **Technical Expertise** Penetration Testing, Risk Assessments, Network Security, Endpoint security,
 - **Tools**:  Metasploit, Wireshark, Wazuh, PFSense
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakokori)](https://github.com/Lakokori/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
