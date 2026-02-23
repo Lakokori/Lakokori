@@ -16,7 +16,7 @@
  - ### 🛠️ Skills
 - **Technical Expertise** Penetration Testing, Risk Assessments, Network Security, Endpoint security,
 - **Tools**:  Metasploit, Wireshark, Wazuh, PFSense
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakokori)](https://github.com/anuraghazra/github-readme-stats)
 ![Lakokori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakokori&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
