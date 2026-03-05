@@ -11,7 +11,7 @@
 
 - 📚 Lifelong learner passionate about  learning Japanese, reading especially computer related, motivational and spiritual books and playing Halo.
 
- - 📄 Know about my experiences [Resume](#) **[https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing](https://drive.google.com/drive/folders/1L5P4RrAlyQl1H2dvgpY2pjXtVlth7gmq?usp=sharing)**
+
 
  - ### 🛠️ Skills
 - **Technical Expertise** Penetration Testing, Risk Assessments, Network Security, Endpoint security,
